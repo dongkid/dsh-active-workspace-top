@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Active workspace on top",
+    "description": "Keeps the workspace you last sent a message in at the top of the workspace list, and persists that order."
+  }
+}

@@ -1,0 +1,8 @@
+# dsh-active-workspace-top bundle patch
+#
+# One Host-only row. It subscribes to the Host's user-message activity event
+# and moves the owning workspace to the front of the durable registry order.
+# No Client half exists, so nothing is added to the browser bundle.
+- insert:
+    - id: active-workspace-top
+      name: dsh-active-workspace-top
